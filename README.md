@@ -46,7 +46,15 @@ git clone https://github.com/yourusername/resume-screening.git
 cd resume-screening
 ```
 
-### ✅ Step 2: Set Up the Environment
+### ✅ Step 2: Crete Virtual Environment
+
+```bash
+python -m venv myenv
+source myenv/bin/activate (for macos)
+myenv\Scripts\activate (for windows)
+```
+
+### ✅ Step 3: Set Up the Environment
 
 Make sure you're in the main project directory and install all dependencies using the `requirements.txt` file:
 
@@ -54,7 +62,7 @@ Make sure you're in the main project directory and install all dependencies usin
 pip install -r requirements.txt
 ```
 
-### ✅ Step 3: Run the App
+### ✅ Step 4: Run the App
 
 Start the Streamlit app by running:
 
@@ -62,7 +70,7 @@ Start the Streamlit app by running:
 streamlit run app.py
 ```
 
-### ✅ Step 3: Analyze the notebook
+### ✅ Step 5: Analyze the notebook
 
 Analyze the notebook to understand how we done what we did.
 
