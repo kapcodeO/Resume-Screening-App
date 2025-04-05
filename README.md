@@ -108,7 +108,7 @@ Some key libraries:
 ## 📬 Feedback
 
 If you like the project or want to contribute, feel free to open issues or pull requests!  
-Made with ❤️ by [Kapil Ojha].
+Made with ❤️ by Kapil Ojha.
 
 ---
 
