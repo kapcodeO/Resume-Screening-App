@@ -131,4 +131,4 @@ Made with ❤️ by Kapil Ojha.
 
 ---
 
-Happy Screening! 🎉
+Happy Screening! 
